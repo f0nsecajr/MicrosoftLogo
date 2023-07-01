@@ -1,0 +1,31 @@
+.bory {
+    background-color: azure;
+}
+
+.microsoft {
+    width: 350px;
+    margin: 20px auto;
+}    
+.red { 
+    background-color: #ff0000;
+}
+ .green { 
+    background-color: #24df4c;
+}
+ .blue { 
+    background-color: #5385f1;
+} .yellow { 
+    background-color: #fad222;
+}
+.square {
+    width: 150px;
+    height: 150px;
+    margin: 05px 05px;
+    float: left;
+}  
+
+.nome {
+    color: gray;
+    margin-left: 450px;
+    font-family: 'Segoe UI';
+}
